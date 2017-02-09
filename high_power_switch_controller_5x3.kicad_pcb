@@ -14,7 +14,7 @@
 
   (page A4)
   (title_block
-    (title hitfet_controller_5x3)
+    (title high_power_switch_controller_5x3)
     (rev 1.0)
   )
 
@@ -162,7 +162,7 @@
     (diff_pair_width 0.254)
   )
 
-  (module hitfet_controller_5x3:MODULAR_DEVICE_BASE_5X3_MALE (layer F.Cu) (tedit 589B780D) (tstamp 589B7BA4)
+  (module high_power_switch_controller_5x3:MODULAR_DEVICE_BASE_5X3_MALE (layer F.Cu) (tedit 589B780D) (tstamp 589B7BA4)
     (at 91.44 105.41)
     (path /589B83C9)
     (fp_text reference MDB1 (at 0 0) (layer F.SilkS) hide
@@ -258,7 +258,7 @@
   (gr_text https://github.com/janelia-modular-devices (at 102.87 133.35) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.1905)))
   )
-  (gr_text "Janelia Modular Device\nhitfet_controller\npart_number: 1210\n02/2017 ver 1.0 5x3" (at 73.66 105.41 90) (layer F.SilkS)
+  (gr_text "Janelia Modular Device\nhigh_power_switch_controller\npart_number: 1210\n02/2017 ver 1.0 5x3" (at 73.66 105.41 90) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
 

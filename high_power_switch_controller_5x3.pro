@@ -11,7 +11,7 @@ version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=hitfet_controller_5x3.net
+LastNetListRead=high_power_switch_controller_5x3.net
 UseCmpFile=0
 PadDrill=0.889
 PadDrillOvalY=0.889
@@ -72,5 +72,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=hitfet_controller_5x3
+LibName30=high_power_switch_controller_5x3
 LibName31=components

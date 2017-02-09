@@ -28,14 +28,14 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:hitfet_controller_5x3
+LIBS:high_power_switch_controller_5x3
 LIBS:components
 EELAYER 26 0
 EELAYER END
 $Descr A 11000 8500
 encoding utf-8
 Sheet 1 1
-Title "hitfet_controller_5x3"
+Title "high_power_switch_controller_5x3"
 Date ""
 Rev "1.0"
 Comp "Janelia"
@@ -50,7 +50,7 @@ U 1 1 589B83C9
 P 2850 1550
 F 0 "MDB1" H 2850 2547 60  0000 C CNN
 F 1 "MODULAR_DEVICE_BASE_5x3_MALE" H 2850 2441 60  0000 C CNN
-F 2 "hitfet_controller_5x3:MODULAR_DEVICE_BASE_5X3_MALE" H 1300 1500 60  0001 C CNN
+F 2 "high_power_switch_controller_5x3:MODULAR_DEVICE_BASE_5X3_MALE" H 1300 1500 60  0001 C CNN
 F 3 "" H 1350 3200 60  0000 C CNN
 F 4 "digikey" H 1300 1600 60  0001 C CNN "Vendor"
 F 5 "S1011E-25-ND" H 1300 1700 60  0001 C CNN "PartNumber"

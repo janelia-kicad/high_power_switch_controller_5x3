@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>/home/polidorop/git/kicad/hitfet_controller_5x3/hitfet_controller_5x3.sch</source>
+    <source>/home/polidorop/git/kicad/high_power_switch_controller_5x3/high_power_switch_controller_5x3.sch</source>
     <date>Wed 08 Feb 2017 03:09:14 PM EST</date>
     <tool>Eeschema no-vcs-found-7602~57~ubuntu16.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>hitfet_controller_5x3</title>
+        <title>high_power_switch_controller_5x3</title>
         <company>Janelia</company>
         <rev>1.0</rev>
         <date/>
-        <source>hitfet_controller_5x3.sch</source>
+        <source>high_power_switch_controller_5x3.sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -21,24 +21,24 @@
   <components>
     <comp ref="MDB1">
       <value>MODULAR_DEVICE_BASE_5x3_MALE</value>
-      <footprint>hitfet_controller_5x3:MODULAR_DEVICE_BASE_5X3_MALE</footprint>
+      <footprint>high_power_switch_controller_5x3:MODULAR_DEVICE_BASE_5X3_MALE</footprint>
       <fields>
         <field name="Vendor">digikey</field>
         <field name="PartNumber">S1011E-25-ND</field>
         <field name="Description">25 Positions Header Breakaway Connector 0.1in</field>
         <field name="PartCount">2</field>
       </fields>
-      <libsource lib="hitfet_controller_5x3" part="MODULAR_DEVICE_BASE_5x3_MALE"/>
+      <libsource lib="high_power_switch_controller_5x3" part="MODULAR_DEVICE_BASE_5x3_MALE"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>589B83C9</tstamp>
     </comp>
   </components>
   <libparts>
-    <libpart lib="hitfet_controller_5x3" part="MODULAR_DEVICE_BASE_5x3_MALE">
+    <libpart lib="high_power_switch_controller_5x3" part="MODULAR_DEVICE_BASE_5x3_MALE">
       <fields>
         <field name="Reference">MDB</field>
         <field name="Value">MODULAR_DEVICE_BASE_5x3_MALE</field>
-        <field name="Footprint">hitfet_controller_5x3:MODULAR_DEVICE_BASE_5X3_MALE</field>
+        <field name="Footprint">high_power_switch_controller_5x3:MODULAR_DEVICE_BASE_5X3_MALE</field>
         <field name="Vendor">digikey</field>
         <field name="PartNumber">S1011E-25-ND</field>
         <field name="Description">25 Positions Header Breakaway Connector 0.1in</field>
@@ -99,8 +99,8 @@
     </libpart>
   </libparts>
   <libraries>
-    <library logical="hitfet_controller_5x3">
-      <uri>/home/polidorop/git/kicad/hitfet_controller_5x3/hitfet_controller_5x3.lib</uri>
+    <library logical="high_power_switch_controller_5x3">
+      <uri>/home/polidorop/git/kicad/high_power_switch_controller_5x3/high_power_switch_controller_5x3.lib</uri>
     </library>
   </libraries>
   <nets>

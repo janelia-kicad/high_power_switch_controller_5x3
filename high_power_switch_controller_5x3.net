@@ -1,15 +1,15 @@
 (export (version D)
   (design
-    (source /home/polidorop/git/kicad/hitfet_controller_5x3/hitfet_controller_5x3.sch)
+    (source /home/polidorop/git/kicad/high_power_switch_controller_5x3/high_power_switch_controller_5x3.sch)
     (date "Wed 08 Feb 2017 03:09:11 PM EST")
     (tool "Eeschema no-vcs-found-7602~57~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
-        (title hitfet_controller_5x3)
+        (title high_power_switch_controller_5x3)
         (company Janelia)
         (rev 1.0)
         (date)
-        (source hitfet_controller_5x3.sch)
+        (source high_power_switch_controller_5x3.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
         (comment (number 3) (value ""))
@@ -17,21 +17,21 @@
   (components
     (comp (ref MDB1)
       (value MODULAR_DEVICE_BASE_5x3_MALE)
-      (footprint hitfet_controller_5x3:MODULAR_DEVICE_BASE_5X3_MALE)
+      (footprint high_power_switch_controller_5x3:MODULAR_DEVICE_BASE_5X3_MALE)
       (fields
         (field (name Vendor) digikey)
         (field (name PartNumber) S1011E-25-ND)
         (field (name Description) "25 Positions Header Breakaway Connector 0.1in")
         (field (name PartCount) 2))
-      (libsource (lib hitfet_controller_5x3) (part MODULAR_DEVICE_BASE_5x3_MALE))
+      (libsource (lib high_power_switch_controller_5x3) (part MODULAR_DEVICE_BASE_5x3_MALE))
       (sheetpath (names /) (tstamps /))
       (tstamp 589B83C9)))
   (libparts
-    (libpart (lib hitfet_controller_5x3) (part MODULAR_DEVICE_BASE_5x3_MALE)
+    (libpart (lib high_power_switch_controller_5x3) (part MODULAR_DEVICE_BASE_5x3_MALE)
       (fields
         (field (name Reference) MDB)
         (field (name Value) MODULAR_DEVICE_BASE_5x3_MALE)
-        (field (name Footprint) hitfet_controller_5x3:MODULAR_DEVICE_BASE_5X3_MALE)
+        (field (name Footprint) high_power_switch_controller_5x3:MODULAR_DEVICE_BASE_5X3_MALE)
         (field (name Vendor) digikey)
         (field (name PartNumber) S1011E-25-ND)
         (field (name Description) "25 Positions Header Breakaway Connector 0.1in")
@@ -88,8 +88,8 @@
         (pin (num VDD) (name "VDD_(+9-42VDC)") (type passive))
         (pin (num VEE) (name "VEE_(+4-5VDC)") (type passive)))))
   (libraries
-    (library (logical hitfet_controller_5x3)
-      (uri /home/polidorop/git/kicad/hitfet_controller_5x3/hitfet_controller_5x3.lib)))
+    (library (logical high_power_switch_controller_5x3)
+      (uri /home/polidorop/git/kicad/high_power_switch_controller_5x3/high_power_switch_controller_5x3.lib)))
   (nets
     (net (code 1) (name "Net-(MDB1-Pad55)")
       (node (ref MDB1) (pin 55)))
