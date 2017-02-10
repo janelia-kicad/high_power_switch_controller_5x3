@@ -1,4 +1,4 @@
-update=Wed 04 Jan 2017 04:59:50 PM EST
+update=Fri 10 Feb 2017 02:14:31 PM EST
 version=1
 last_client=kicad
 [cvpcb]
@@ -28,17 +28,6 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.381
 BoardOutlineThickness=0.2286
 ModuleOutlineThickness=0.381
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=schematic/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
-ERC_TestSimilarLabels=1
 [eeschema]
 version=1
 LibDir=${KILIBS}
@@ -74,3 +63,13 @@ LibName28=contrib
 LibName29=valves
 LibName30=high_power_switch_controller_5x3
 LibName31=components
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=schematic/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
