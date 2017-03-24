@@ -1,4 +1,4 @@
-#high_power_switch_controller_5x3
+# high_power_switch_controller_5x3
 
 Authors:
 
