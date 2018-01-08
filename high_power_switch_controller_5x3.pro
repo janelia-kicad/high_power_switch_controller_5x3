@@ -1,4 +1,4 @@
-update=Fri 10 Feb 2017 02:14:31 PM EST
+update=Mon 08 Jan 2018 11:22:05 AM EST
 version=1
 last_client=kicad
 [cvpcb]
@@ -28,13 +28,6 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.381
 BoardOutlineThickness=0.2286
 ModuleOutlineThickness=0.381
-[eeschema]
-version=1
-LibDir=${KILIBS}
-[eeschema/libraries]
-LibName1=power
-LibName2=high_power_switch_controller_5x3
-LibName3=components
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -45,3 +38,6 @@ NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=60
 ERC_TestSimilarLabels=1
+[eeschema]
+version=1
+LibDir=
