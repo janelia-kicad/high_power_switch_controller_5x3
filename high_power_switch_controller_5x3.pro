@@ -1,4 +1,4 @@
-update=Mon 08 Jan 2018 11:22:05 AM EST
+update=Thu 23 Aug 2018 02:02:41 PM EDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -28,6 +28,9 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.381
 BoardOutlineThickness=0.2286
 ModuleOutlineThickness=0.381
+[eeschema]
+version=1
+LibDir=
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -38,6 +41,3 @@ NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=60
 ERC_TestSimilarLabels=1
-[eeschema]
-version=1
-LibDir=
