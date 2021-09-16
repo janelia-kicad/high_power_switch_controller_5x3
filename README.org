@@ -1,6 +1,6 @@
 #+TITLE: high_power_switch_controller_5x3
 #+AUTHOR: Peter Polidoro
-#+EMAIL: peterpolidoro@gmail.com
+#+EMAIL: peter@polidoro.io
 
 * Repository Information
   - Author :: Peter Polidoro
